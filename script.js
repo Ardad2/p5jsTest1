@@ -1,4 +1,4 @@
-let colorlist = ['gold', 'yellow', 'turquoise', 'red']
+let colorlist = ['black', 'yellow', 'turquoise', 'red']
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
